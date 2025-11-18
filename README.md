@@ -9,7 +9,7 @@
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
-
+- Deploying Jenkins on an AWS Ubuntu EC2 Instance (https://github.com/baba2undexlxye/Deploying-Jenkins-on-an-AWS-Ubuntu-EC2-Instance)
 
 
 
