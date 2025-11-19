@@ -11,9 +11,10 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
   
-| Skill                                    | Cloud Project         |
-|------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Jenkins Installation                     |<a href="https://github.com/baba2undexlxye/Deploying-Jenkins-on-an-AWS-Ubuntu-EC2-Instance">Deploying Jenkins on an AWS Ubuntu EC2 Instance</a> |
+| Skill                       | Cloud Project         |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Jenkins Installation        |<a href="https://github.com/baba2undexlxye/Deploying-Jenkins-on-an-AWS-Ubuntu-EC2-Instance">Deploying Jenkins on an AWS Ubuntu EC2 Instance</a> |
+| AWS Three Tier Web Architecture | |
 
 <h2> 🤳 Connect with me:</h2>
 <img align="left" alt="LinkedIn" width="22px"
