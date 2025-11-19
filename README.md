@@ -9,9 +9,11 @@
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
-- Deploying Jenkins on an AWS Ubuntu EC2 Instance(https://github.com/baba2undexlxye/Deploying-Jenkins-on-an-AWS-Ubuntu-EC2-Instance/edit/main/README.md)
-  
 
+  
+| Skill                                    | Cloud Project         |
+|------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Jenkins Installation                     |<a href="https://github.com/baba2undexlxye/baba2undexlxye/edit/main/README.md">Deploying Jenkins on an AWS Ubuntu EC2 Instance</a> |
 
 <h2> 🤳 Connect with me:</h2>
 <img align="left" alt="LinkedIn" width="22px"
