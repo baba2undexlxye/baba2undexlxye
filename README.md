@@ -16,6 +16,7 @@
 | Jenkins Deployment        |<a href="https://github.com/baba2undexlxye/Deploying-Jenkins-on-an-AWS-Ubuntu-EC2-Instance">Deploying Jenkins on an AWS Ubuntu EC2 Instance</a> |
 | AWS Three Tier Web Architecture | |
 | Ansible Deployment |<a href="https://github.com/baba2undexlxye/Ansible-Installation-Deployment-Guide">Ansible Installation and Deployment Guide |
+| AWS Global Deployment |<a href="https://github.com/baba2undexlxye/Global-deployments-on-AWS-using-Terraform">Global-deployments-on-AWS-using-Terraform |
 
 <h2> 🤳 Connect with me:</h2>
 <img align="left" alt="LinkedIn" width="22px"
