@@ -6,6 +6,12 @@
 • <b>HashiCorp Terraform Associate (003)</b><br> ✅
 • <b>Certificate IV in Cybersecurity</b><br> ✅
 • <b>GRC Mastery Certificate</b><br> 
+🛠️ •  <b>Microsoft Azure Administrator Certification</b><br> (in progress)
+
+🛠️ •  <b>Google Cloud Architect Professional (GCP-PCA)</b><br> (in progress)
+
+🛠️ •  <b>Certified Kubernetes Administrator (CKA)</b><br> (in progress)
+
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
