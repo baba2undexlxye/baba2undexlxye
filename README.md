@@ -16,6 +16,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+# My Skills🎓
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,gcp,ansible,azure,bash,gitlab,jenkins,kubernetes,powershell,py,vscode)](https://skillicons.dev)
   
 | Skill                       | Cloud Project         |
 |-----------------------------|---------------------------------------------------------------------------------------------------------------------|
