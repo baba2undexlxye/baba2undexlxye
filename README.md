@@ -28,6 +28,7 @@
 | GCP VM Network Lab |<a href="https://github.com/baba2undexlxye/GCP-VM-Network-Lab">gcp-console-vm-network-security-lab |
 | AWS Multi Tier Web Architecture |<a href="https://github.com/baba2undexlxye/AWS-Three-Tier-Architecture">AWS-3tier-Architecture-using-Terraform |
 | GCP CI/CD Pipeline with GitHub Actions & Snyk |<a href="https://github.com/baba2undexlxye/GCP-CI-CD-Pipeline-with-GitHub-Actions-Snyk">CI/CD Implementation for GCP Using GitHub Actions with Integrated Snyk Security Scanning |
+| Containerized Jenkins deployment leveraging Docker |<a href="https://github.com/baba2undexlxye/Containerized-Jenkins-deployment-leveraging-Docker">Docker-based containerized Jenkins automation server |
 <h2> 🤳 Connect with me:</h2>
 <img align="left" alt="LinkedIn" width="22px"
      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
