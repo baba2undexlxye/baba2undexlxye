@@ -29,16 +29,15 @@
 | AWS Multi Tier Web Architecture |<a href="https://github.com/baba2undexlxye/AWS-Three-Tier-Architecture">AWS-3tier-Architecture-using-Terraform |
 | GCP CI/CD Pipeline with GitHub Actions & Snyk |<a href="https://github.com/baba2undexlxye/GCP-CI-CD-Pipeline-with-GitHub-Actions-Snyk">CI/CD Implementation for GCP Using GitHub Actions with Integrated Snyk Security Scanning |
 | Containerized Jenkins deployment leveraging Docker |<a href="https://github.com/baba2undexlxye/Containerized-Jenkins-deployment-leveraging-Docker">Docker-based containerized Jenkins automation server |
+
+
+
+
 <h2> 🤳 Connect with me:</h2>
-<img align="left" alt="LinkedIn" width="22px"
-     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
-     style="filter: invert(33%) sepia(98%) saturate(3560%) hue-rotate(320deg) brightness(95%) contrast(108%);" />
 
 
 
-https://www.linkedin.com/in/babatunde-oloye-6b93942a4
-
-
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/babatunde-oloye-6b93942a4)
 
 <!--
 **baba2undexlxye/baba2undexlxye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
