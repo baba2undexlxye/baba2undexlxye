@@ -29,6 +29,7 @@
 | AWS Multi Tier Web Architecture |<a href="https://github.com/baba2undexlxye/AWS-Three-Tier-Architecture">AWS-3tier-Architecture-using-Terraform |
 | GCP CI/CD Pipeline with GitHub Actions & Snyk |<a href="https://github.com/baba2undexlxye/GCP-CI-CD-Pipeline-with-GitHub-Actions-Snyk">CI/CD Implementation for GCP Using GitHub Actions with Integrated Snyk Security Scanning |
 | Containerized Jenkins deployment leveraging Docker |<a href="https://github.com/baba2undexlxye/Containerized-Jenkins-deployment-leveraging-Docker">Docker-based containerized Jenkins automation server |
+| Applied Network Defense: RDP Brute-Force Prevention|<a href="https://github.com/baba2undexlxye/Windows-RDP-brute-force-attack-simulation-and-defensive-hardening"> |RDP Intrusion Detection and Automated IP Blocking
 
 
 
