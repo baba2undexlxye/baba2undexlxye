@@ -30,6 +30,9 @@
 | GCP CI/CD Pipeline with GitHub Actions & Snyk |<a href="https://github.com/baba2undexlxye/GCP-CI-CD-Pipeline-with-GitHub-Actions-Snyk">CI/CD Implementation for GCP Using GitHub Actions with Integrated Snyk Security Scanning |
 | Containerized Jenkins deployment leveraging Docker |<a href="https://github.com/baba2undexlxye/Containerized-Jenkins-deployment-leveraging-Docker">Docker-based containerized Jenkins automation server |
 | Windows RDP Attack Simulation and IPBan Defense|<a href="https://github.com/baba2undexlxye/Windows-RDP-brute-force-attack-simulation-and-defensive-hardening">RDP Security Hardening and Intrusion Prevention Project
+| Devsecops-Platform-Infra-Terraform-AWS-Jenkins-Eks |<a href="https://github.com/baba2undexlxye/devsecops-infra-aws-jenkins-eks">Provisions AWS infrastructure, including a Jenkins server and Kubernetes (EKS) environment, to host and run the CI/CD pipeline. |
+| Devsecops-Platform-CI/CD-Jenkins-Eks-Security |<a href="https://github.com/baba2undexlxye/devsecops-ci-cd-pipeline-jenkins-k8s-security">Implements CI/CD pipeline using Jenkins to build, scan (SAST/SCA/DAST), containerize, and deploy applications to Kubernetes.  |
+
 
 
 
