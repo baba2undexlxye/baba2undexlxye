@@ -41,7 +41,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/babatunde-oloye-6b93942a4)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tunde-o)
 
 <!--
 **baba2undexlxye/baba2undexlxye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
